@@ -1,0 +1,77 @@
+.board{
+    height: 100%;
+    background-color:#555;
+}
+.menu-bottom ul{
+    text-decoration: none;
+    list-style: none;
+}
+
+.menu-bottom ul li a{
+    text-decoration: none;
+}
+.app{
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width: 650px;
+    height:650px;
+}
+.app .controls{
+    display:flex;
+    align-items:center;
+    height:50px;
+    background-color:#ddd;
+    padding:0px 10px;
+}
+
+.app .controls .title{
+    font-weight:600;
+    color: #222;
+    width:80px;
+
+}
+.app  .controls .type,.app  .controls .size,.app  .controls .color{
+    margin: 0px 10px;
+}
+
+.app  .controls .type input{
+    display:none;
+}
+
+
+.app  .controls .type label{
+    display:inline-block;
+    text-align:center;
+    line-height: 30px;
+    width:30px;
+    height:30px;
+    margin: 0px 2px;
+    cursor:pointer;
+}
+
+.app  .controls .type input:checked+label{
+    background-color: #111;
+    color: #eee;
+    border-radius: 50%;
+}
+
+.app  .controls .size input{
+    height: 10px;
+}
+
+.app  .controls .actions{
+   flex: 1;
+   text-align:right;
+}
+
+.app  .controls .actions button{
+    padding: 5px 10px;
+    cursor: pointer;
+ }
+
+
+
+
+

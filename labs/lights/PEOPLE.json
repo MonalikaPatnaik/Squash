@@ -1,0 +1,391 @@
+[
+  {
+    "hex": "#FFDFC4",
+    "number": 1,
+    "name": "skin"
+  },
+  {
+    "hex": "#F0D5BE",
+    "number": 2,
+    "name": "skin"
+  },
+  {
+    "hex": "#EECEB3",
+    "number": 3,
+    "name": "skin"
+  },
+  {
+    "hex": "#E1B899",
+    "number": 4,
+    "name": "skin"
+  },
+  {
+    "hex": "#E5C298",
+    "number": 5,
+    "name": "skin"
+  },
+  {
+    "hex": "#FFDCB2",
+    "number": 6,
+    "name": "skin"
+  },
+  {
+    "hex": "#E5B887",
+    "number": 7,
+    "name": "skin"
+  },
+  {
+    "hex": "#E5A073",
+    "number": 8,
+    "name": "skin"
+  },
+  {
+    "hex": "#E79E6D",
+    "number": 9,
+    "name": "skin"
+  },
+  {
+    "hex": "#DB9065",
+    "number": 10,
+    "name": "skin"
+  },
+  {
+    "hex": "#CE967C",
+    "number": 11,
+    "name": "skin"
+  },
+  {
+    "hex": "#C67856",
+    "number": 12,
+    "name": "skin"
+  },
+  {
+    "hex": "#BA6C49",
+    "number": 13,
+    "name": "skin"
+  },
+  {
+    "hex": "#A57257",
+    "number": 14,
+    "name": "skin"
+  },
+  {
+    "hex": "#F0C8C9",
+    "number": 15,
+    "name": "skin"
+  },
+  {
+    "hex": "#DDA8A0",
+    "number": 16,
+    "name": "skin"
+  },
+  {
+    "hex": "#B97C6D",
+    "number": 17,
+    "name": "skin"
+  },
+  {
+    "hex": "#E5A073",
+    "number": 18,
+    "name": "skin"
+  },
+  {
+    "hex": "#A8756C",
+    "number": 19,
+    "name": "skin"
+  },
+  {
+    "hex": "#AD6452",
+    "number": 20,
+    "name": "skin"
+  },
+  {
+    "hex": "#5C3836",
+    "number": 21,
+    "name": "skin"
+  },
+  {
+    "hex": "#CB8442",
+    "number": 22,
+    "name": "skin"
+  },
+   {
+    "hex": "#BD723C",
+    "number": 23,
+    "name": "skin"
+  },
+  {
+    "hex": "#704139",
+    "number": 24,
+    "name": "skin"
+  },
+  {
+    "hex": "#FC9885",
+    "number": 779,
+    "name": "Bastard Pink"
+  },
+  {
+    "hex": "#FF6F00",
+    "number": 780,
+    "name": "AS Golden Amber"
+  },
+  {
+    "hex": "#FF5000",
+    "number": 781,
+    "name": "Terry Red"
+  },
+  {
+    "hex": "#B9003C",
+    "number": 787,
+    "name": "Marius Red"
+  },
+  {
+    "hex": "#AA3C32",
+    "number": 789,
+    "name": "Blood Red"
+  },
+  {
+    "hex": "#FFB4A5",
+    "number": 790,
+    "name": "Moroccan Pink"
+  },
+  {
+    "hex": "#F5B9AA",
+    "number": 791,
+    "name": "Moroccan Frost"
+  },
+  {
+    "hex": "#FF3CA0",
+    "number": 793,
+    "name": "Vanity Fair"
+  },
+  {
+    "hex": "#FFAFDC",
+    "number": 794,
+    "name": "Pretty 'n Pink"
+  },
+  {
+    "hex": "#FA46C8",
+    "number": 795,
+    "name": "Magical Magenta"
+  },
+  {
+    "hex": "#AF0096",
+    "number": 797,
+    "name": "Deep Purple"
+  },
+  {
+    "hex": "#A000BE",
+    "number": 798,
+    "name": "Chrysalis Pink"
+  },
+  {
+    "hex": "#3C00B4",
+    "number": 799,
+    "name": "Special KH Lavender"
+  },
+  {
+    "hex": "#ff9600",
+    "number": "CL104",
+    "name": "Cool LED Deep Amber"
+  },
+  {
+    "hex": "#ff6e00",
+    "number": "CL105",
+    "name": "Cool LED Orange"
+  },
+  {
+    "hex": "#be0032",
+    "number": "CL106",
+    "name": "Cool LED Primary Red"
+  },
+  {
+    "hex": "#c80050",
+    "number": "CL113",
+    "name": "Cool LED Magenta"
+  },
+  {
+    "hex": "#00ffa0",
+    "number": "CL115",
+    "name": "Cool LED Peacock Blue"
+  },
+  {
+    "hex": "#00aa82",
+    "number": "CL116",
+    "name": "Cool LED Medium Blue-Green"
+  },
+  {
+    "hex": "#ebffa0",
+    "number": "CL117",
+    "name": "Cool LED Steel Blue"
+  },
+  {
+    "hex": "#00f5b4",
+    "number": "CL118",
+    "name": "Cool LED Light Blue"
+  },
+  {
+    "hex": "#0091a5",
+    "number": "CL119",
+    "name": "Cool LED Dark Blue"
+  },
+  {
+    "hex": "#af0050",
+    "number": "CL126",
+    "name": "Cool LED Mauve"
+  },
+  {
+    "hex": "#ff0069",
+    "number": "CL128",
+    "name": "Cool LED Bright Pink"
+  },
+  {
+    "hex": "#00c8c8",
+    "number": "CL132",
+    "name": "Cool LED Medium Blue"
+  },
+  {
+    "hex": "#4bc300",
+    "number": "CL139",
+    "name": "Cool LED Primary Green"
+  },
+  {
+    "hex": "#ff7d46",
+    "number": "CL147",
+    "name": "Cool LED Apricot"
+  },
+  {
+    "hex": "#ff6900",
+    "number": "CL158",
+    "name": "Cool LED Deep Orange"
+  },
+  {
+    "hex": "#ff0000",
+    "number": "CL164",
+    "name": "Cool LED Flame Red"
+  },
+  {
+    "hex": "#eb78a0",
+    "number": "CL180",
+    "name": "Cool LED Dark Lavender"
+  },
+  {
+    "hex": "#960078",
+    "number": "CL181",
+    "name": "Cool LED Congo Blue"
+  },
+  {
+    "hex": "#dc0052",
+    "number": "CL182",
+    "name": "Cool LED Light Red"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": "414P",
+    "name": "Perforated Highlight"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": "439P",
+    "name": "Perforated Heavy Quiet Frost"
+  },
+  {
+    "hex": "#FAD7AF",
+    "number": "A205",
+    "name": "Half C.T.O. Acrylic Panel"
+  },
+  {
+    "hex": "#F3B76E",
+    "number": "A207",
+    "name": "Full C.T.O. + 0.3 ND Acrylic Panel"
+  },
+  {
+    "hex": "#E7A651",
+    "number": "A208",
+    "name": "Full C.T.O. + 0.6 ND Acrylic Panel"
+  },
+  {
+    "hex": "#CDCDCD",
+    "number": "A209",
+    "name": "0.3 ND Acrylic Panel"
+  },
+  {
+    "hex": "#AAAAAA",
+    "number": "A210",
+    "name": "0.6 ND Acrylic Panel"
+  },
+  {
+    "hex": "#878787",
+    "number": "A211",
+    "name": "0.9 ND Acrylic Panel"
+  },
+  {
+    "hex": "#FACDD7",
+    "number": 801,
+    "name": "Zircon Minus Green 1"
+  },
+  {
+    "hex": "#FAE7EA",
+    "number": 802,
+    "name": "Zircon Minus Green 2"
+  },
+  {
+    "hex": "#FCF2FA",
+    "number": 803,
+    "name": "Zircon Minus Green 3"
+  },
+  {
+    "hex": "#FCF7FC",
+    "number": 804,
+    "name": "Zircon Minus Green 4"
+  },
+  {
+    "hex": "#FCFAFC",
+    "number": 805,
+    "name": "Zircon Minus Green 5"
+  },
+  {
+    "hex": "#FFAA6E",
+    "number": 806,
+    "name": "Zircon Warm Amber 2"
+  },
+  {
+    "hex": "#FFD291",
+    "number": 807,
+    "name": "Zircon Warm Amber 4"
+  },
+  {
+    "hex": "#FFE4AA",
+    "number": 808,
+    "name": "Zircon Warm Amber 6"
+  },
+  {
+    "hex": "#FFEBB4",
+    "number": 809,
+    "name": "Zircon Warm Amber 8"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 810,
+    "name": "Zircon Diffusion 1"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 811,
+    "name": "Zircon Diffusion 2"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 812,
+    "name": "Zircon Diffusion 3"
+  },
+  {
+    "hex": "#ebfaeb",
+    "number": "SC15",
+    "name": "Special Cyan 15"
+  },
+  {
+    "hex": "#cdfae1",
+    "number": "SC30",
+    "name": "Special Cyan 30"
+  }]

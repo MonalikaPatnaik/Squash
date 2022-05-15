@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="A visual introduction to studies." />
+
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Figgle" />
+    <meta
+      property="og:description"
+      content="A visual introduction to studies."
+    />
+    <!-- <meta property="og:image" content="http://students.brown.edu/seeing-theory/img/share/home.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" /> -->
+
+    <title>Figgle-Feedback</title>
+
+    <!-- Fonts -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Assistant:300,400,600,700"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="css/feedback.css" />
+
+    <!-- Home Page CSS -->
+    <link rel="stylesheet" type="text/css" href="css/home.css" />
+
+    <!-- Full Page CSS -->
+    <link rel="stylesheet" type="text/css" href="css/jquery.fullpage.css" />
+
+    <!--Favicon-->
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
+
+    <!--Jquery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+    <!-- Full Page -->
+    <script src="js/jquery.fullpage.js"></script>
+
+    <!-- Full Page Setup -->
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $("#fullpage").fullpage({
+          anchors: ["firstPage", "secondPage", "3rdPage", "4thPage"],
+          menu: "#menu",
+          afterSlideLoad: function (
+            anchorLink,
+            index,
+            slideAnchor,
+            slideIndex
+          ) {
+            $(".menu-sub li.active").removeClass("active");
+            $(".menu-sub li").eq(slideIndex).addClass("active");
+          },
+        });
+
+        $(".scroll-down").show("fade");
+        $(".scroll-down")
+          .fadeIn(1000)
+          .fadeOut(1000)
+          .fadeIn(1000)
+          .fadeOut(1000)
+          .fadeIn(1000);
+      });
+    </script>
+  </head>
+
+  <body>
+    <div class="menu-bottom">
+
+        <ul id="menu">
+            <li id='home'><a href="/" style="color:black">FIGGLE</a></li>
+            <li id="language-menu" class="home">
+               <a href="/" style="color:black">Home</a>
+        </div></li>
+
+        </ul>
+
+    </div>
+    <div class='loader'>
+        <div class='loader_inner'>
+          <img class='pawone' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/paw1.png'>
+          <img class='pawtwo' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/l1.png'>
+          <img class='pawone' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/paw2.png'>
+          <img class='pawtwo' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/l2.png'>
+          <img class='pawone' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/paw1.png'>
+          <img class='pawtwo' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/l3.png'>
+          <div class='div'>Loading feedback form...</div>
+        </div>
+      </div>
+      <div class='tut'>
+        <div class='tut_inner'>
+          <h2>Drag the characters mouths to reflect your satisfaction</h2>
+          <img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/Dec_31,_2015_22:28.gif'>
+          <p>Ok</p>
+        </div>
+      </div>
+      <div class='question'>
+        <p>?</p>
+      </div>
+      <div class='feedbackform'>
+        <div class='feedbackform_slide first active_slide'>
+          <img class='sb monkey' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/sunburst.svg'>
+          <div class='grad monkey'></div>
+          <div class='feedbackform_slide__inner'>
+            <h1 class='question_s'></h1>
+            <h2>Drag the cheeky monkeys mouth up or down to reflect your satisfaction!</h2>
+            <div class='character'>
+              <div class='character_image'>
+                <img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/monkey.svg'>
+              </div>
+              <div class='character_smile'>
+                <div class='smiler_input'>
+                  <input class='monkey' max='20' min='0' type='range'>
+                  <svg class='smile monkey' height='20px' version='1.1' width='70px' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M10 10 C 20 10, 40 10, 50 10' fill='transparent' stroke-linecap='round' stroke-width='4' stroke='#562911'></path>
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div class='rating monkey'>
+              <span>Average</span>
+              <img class='next' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/greenbutton3.png'>
+            </div>
+          </div>
+        </div>
+        <div class='feedbackform_slide'>
+          <img class='sb rabbit' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/circback.svg'>
+          <div class='grad rabbit'></div>
+          <div class='feedbackform_slide__inner'>
+            <h1 class='question_s'></h1>
+            <h2>Drag the fluffy rabbits mouth up or down to reflect your satisfaction!</h2>
+            <div class='character rabbit'>
+              <div class='character_image'>
+                <img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/rabbit.svg'>
+              </div>
+              <div class='character_smile'>
+                <div class='smiler_input'>
+                  <input class='rabbit' max='20' min='0' type='range'>
+                  <svg class='smile rabbit' height='20px' version='1.1' width='70px' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M10 10 C 20 10, 40 10, 50 10' fill='transparent' stroke-linecap='round' stroke-width='4' stroke='#562911'></path>
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div class='rating rabbit'>
+              <span>Average</span>
+              <img class='next' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/greenbutton3.png'>
+              <img class='prev' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/greenbutton4.png'>
+            </div>
+          </div>
+        </div>
+        <div class='feedbackform_slide'>
+          <img class='sb panda' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/hexback.svg'>
+          <div class='grad panda'></div>
+          <div class='feedbackform_slide__inner'>
+            <h1 class='question_s'></h1>
+            <h2>Drag the shy pandas mouth up or down to reflect your satisfaction!</h2>
+            <div class='character'>
+              <div class='character_image'>
+                <img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/panda.svg'>
+              </div>
+              <div class='character_smile'>
+                <div class='smiler_input'>
+                  <input class='panda' max='20' min='0' type='range'>
+                  <svg class='smile panda' height='20px' version='1.1' width='70px' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M10 10 C 20 10, 40 10, 50 10' fill='transparent' stroke-linecap='round' stroke-width='4' stroke='black'></path>
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div class='rating panda'>
+              <span>Average</span>
+              <img class='next' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/greenbutton3.png'>
+              <img class='prev' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/greenbutton4.png'>
+            </div>
+          </div>
+        </div>
+        <div class='feedbackform_slide'>
+          <img class='sb lion' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/sunburst.svg'>
+          <div class='grad lion'></div>
+          <div class='feedbackform_slide__inner'>
+            <h1 class='question_s'></h1>
+            <h2>Drag the lions mouth up or down to reflect your satisfaction!</h2>
+            <div class='character'>
+              <div class='character_image'>
+                <img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/lion.svg'>
+              </div>
+              <div class='character_smile'>
+                <div class='smiler_input'>
+                  <input class='lion' max='20' min='0' type='range'>
+                  <svg class='smile lion' height='20px' version='1.1' width='70px' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M10 10 C 20 10, 40 10, 50 10' fill='transparent' stroke-linecap='round' stroke-width='4' stroke='black'></path>
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div class='rating lion'>
+              <span>Average</span>
+              <img class='next' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/greenbutton3.png'>
+              <img class='prev' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/greenbutton4.png'>
+            </div>
+          </div>
+        </div>
+        <div class='feedbackform_slide'>
+          <div class='feedbackform_slide__inner'>
+            <div class='col_left'>
+              <img class='board' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/resultboard.png'>
+              <div class='summary'></div>
+            </div>
+            <div class='col_right'>
+              <div class='rating end'>
+                <span>Thankyou!</span>
+                <img class='prev' src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/greenbutton4.png'>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+     
+
+    
+    <!-- Home JavaScript -->
+    <script src="./js/home.js"></script>
+
+    <!-- Google Analytics -->
+    <script>
+      (function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "https://www.google-analytics.com/analytics.js",
+        "ga"
+      );
+
+      ga("create", "UA-85617614-1", "auto");
+      ga("send", "pageview");
+
+      (function (d) {
+        var s = d.createElement("script");
+        s.setAttribute("data-account", "6jbDoxELNO");
+        s.setAttribute("src", "https://cdn.userway.org/widget.js");
+        (d.body || d.head).appendChild(s);
+      })(document);
+    </script>
+    <script>
+
+
+// Preloader
+
+var preload_time = 3000; // How long preload is shown
+var preload_fade_speed = 400; // Preload fadeout speed
+
+setTimeout(function(){
+  $('.loader').fadeOut(preload_fade_speed); // Fade out preloader
+  open_modal(); // Open tutorial
+},preload_time);
+
+// End preloader
+
+// Tutorial modal
+
+function open_modal(){
+  $('.tut').addClass('poptut'); // Remove
+  $('.question').fadeOut(400); // Fadeout
+}
+
+function close_modal(){
+  $('.question').fadeIn(400); // Fadeout
+  $('.tut').removeClass('poptut'); // Remove
+  $('h1,h2').addClass('popone'); // Intro
+  $('.character').addClass('poptwo'); // Intro
+  $('.rating').addClass('popthree'); // Intro
+  $('.next,.prev').addClass('popfour'); // Intro
+}
+
+$('.tut p').click(function(){
+  close_modal(); // Close modal
+});
+
+$('.question p').click(function(){
+  open_modal(); // Open modal
+})
+
+// End tutorial modal
+
+// Page slider
+
+var slide_amount = $('.feedbackform_slide').length; // Slide count
+var window_width = $(window).width(); // Init window width
+var current_x = 0; // Current x value of slides
+var current_position = 0; // Current position
+
+$('.feedbackform').css('width',window_width * slide_amount + 'px'); // Set up the slides
+$('.feedbackform_slide').css('width',window_width + 'px'); // Set up the slides
+
+$('.next').click(function(){
+  update_answers();
+  var window_width = $(window).width(); // Re assess window width
+  if(current_position < slide_amount - 1){
+    current_position++;
+    current_x = current_position * window_width;
+    $('.feedbackform_slide').css('right',current_x);
+    $('.active_slide').removeClass('active_slide').next().addClass('active_slide');
+    setTimeout(function(){
+      $('.active_slide').find('.popone').removeClass('popone'); // Reset animations
+      $('.active_slide').find('.poptwo').removeClass('poptwo'); // Reset animations
+      $('.active_slide').find('.popthree').removeClass('popthree'); // Reset animations
+      $('.active_slide').find('.popfour').removeClass('popfour'); // Reset animations
+    },10)
+    setTimeout(function(){
+      $('h1,h2').addClass('popone'); // Reset animations
+      $('.character,a.follow,a.download').addClass('poptwo'); // Reset animations
+      $('.rating').addClass('popthree'); // Reset animations
+      $('.next,.prev').addClass('popfour'); // Reset animations
+    },410)
+  }
+});
+
+$('.prev').click(function(){
+  update_answers();
+  var window_width = $(window).width();
+  if(current_position > 0){
+    current_position--;
+    current_x = current_position * window_width;
+    $('.feedbackform_slide').css('right',current_x);
+    $('.active_slide').removeClass('active_slide').prev().addClass('active_slide');
+    setTimeout(function(){
+      $('.active_slide').find('.popone').removeClass('popone'); // Reset animations
+      $('.active_slide').find('.poptwo').removeClass('poptwo'); // Reset animations
+      $('.active_slide').find('.popthree').removeClass('popthree'); // Reset animations
+      $('.active_slide').find('.popfour').removeClass('popfour'); // Reset animations
+    },10)
+    setTimeout(function(){
+      $('h1,h2').addClass('popone'); // Reset animations
+      $('.character,a.follow,a.download').addClass('poptwo'); // Reset animations
+      $('.rating').addClass('popthree'); // Reset animations
+      $('.next,.prev').addClass('popfour'); // Reset animations
+    },410)
+  }
+});
+
+$(window).resize(function(){ // Responisivity
+  var window_width = $(window).width(); // Window width
+  $('.feedbackform').css('width',window_width * slide_amount + 'px'); // Re jig slide sizes
+  $('.feedbackform_slide').css('width',window_width + 'px'); // Re jig slide sizes
+  current_position = 0; // Reset
+  current_x = current_position * window_width; // Reset
+  $('.feedbackform_slide').css('right',current_x); // Reset
+  $('.active_slide').removeClass('active_slide')
+  $('.first').addClass('active_slide');
+});
+
+// End page slider
+
+// Questions
+
+var questions = ['How satisfied are you with our services?','How was your experience of interactive learning?','How was the visualisation of chapters ?','How well the concepts were cleared?']
+var q = 0;
+
+$('.question_s').each(function(){
+  $(this).html(questions[q])
+  q++;
+})
+
+// Summary
+var answers = []
+
+var animals = ['monkey','rabbit','panda','lion']
+for(i = 0; i < animals.length; i++){
+  answers[animals[i]] = ['Average'] 
+}
+
+function update_answers(){
+   $('.summary').html('');
+  for(i = 0; i < questions.length; i++){
+    $('.summary').append('<p>' + questions[i] + '</p><p class="answer_p">' + answers[animals[i]][0] + '</p>')
+  }
+}
+// Messages
+
+var monkey_messages = ['terrible','bad','not great','average','good','excellent','amazing']; // Monkey array
+var rabbit_messages = ['dissapointed','unhappy','not great','average','pleased','happy','super happy']; // Rabbit array
+var panda_messages = ['terrible','bad','not great','average','good','excellent','amazing']; // Panda array
+var lion_messages = ['very dirty','dirty','needs work','average','clean','very clean','Superb']; // Lion array
+
+// The smile
+
+$('input').mousedown(function(){
+  $('input').css('cursor','-webkit-grabbing'); // Change cursor
+  $('input').css('cursor','-moz-grabbing'); // Change cursor
+});
+
+$('input').mouseup(function(){
+  $('input').css('cursor','-webkit-grab'); // Change cursor
+  $('input').css('cursor','-moz-grab'); // Change cursor
+});
+
+var smile_value;
+
+$('input').mousedown(function(){
+  var active_smile = $(this).attr('class').split(' ').pop(); // Get active smile
+  s = setInterval(function(){
+    // Change smile svg coords
+    smile_value = $('input.' + active_smile).val(); // Get the value
+    $('.smile.' + active_smile + ' path').attr('d','M10 10 C 20 ' + smile_value + ', 40 ' + smile_value + ', 50 10');
+    // Select relevant array
+    if(active_smile == 'monkey'){
+      var active_array = monkey_messages; // Monkey array
+    } else if(active_smile == 'rabbit'){
+      var active_array = rabbit_messages; // Rabbit array
+    } else if(active_smile == 'panda'){
+      var active_array = panda_messages; // Panda array
+    } else if(active_smile == 'lion'){
+      var active_array = lion_messages; // Lion array
+    }
+    answers[active_smile] = [$('.rating.' + active_smile + ' span').html()]; // Push to answers
+    $('.sb.' + active_smile).css('opacity',(smile_value/60)); // Pattern opacity
+    $('.grad.' + active_smile).css('opacity',(smile_value/40)); // Gradient opacity
+    if(smile_value == 0){
+      // Worst
+      $('.rating.' + active_smile + ' span').html(active_array[0]); // Set message
+    } else if(smile_value < 10 && smile_value > 5){
+      // Bad
+      $('.rating.' + active_smile + ' span').html(active_array[1]); // Set message
+    } else if(smile_value < 5 && smile_value > 0){
+      // Not good
+      $('.rating.' + active_smile + ' span').html(active_array[2]); // Set message
+    } else if(smile_value == 10){
+      // Average
+      $('.rating.' + active_smile + ' span').html(active_array[3]); // Set message
+    } else if(smile_value > 10 && smile_value < 15){
+      // Good
+      $('.rating.' + active_smile + ' span').html(active_array[4]); // Set message
+    } else if(smile_value > 15 && smile_value < 20){
+      // Very good
+      $('.rating.' + active_smile + ' span').html(active_array[5]); // Set message
+    } else if(smile_value== 20){
+      // Amazing
+      $('.rating.' + active_smile + ' span').html(active_array[6]); // Set message
+    }        
+  },10)
+});
+
+// Clear interval
+
+$('input').mouseup(function(){
+  clearInterval(s); // Clear intervals
+});
+
+
+// To do
+// Code tidy
+// CBT CDT
+// Finish last slide
+
+// Would be nice
+// Things appear on the board, banans etc
+// summary page?
+// Eyes follow you?
+    </script>
+    <noscript
+      >Please ensure Javascript is enabled for purposes of
+      <a href="https://userway.org">website accessibility</a></noscript
+    >
+  </body>
+</html>

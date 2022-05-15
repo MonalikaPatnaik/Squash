@@ -1,0 +1,1792 @@
+[
+  {
+    "hex": "#FF78DC",
+    "number": 2,
+    "name": "Rose Pink"
+  },
+  {
+    "hex": "#FAF0FA",
+    "number": 3,
+    "name": "Lavender Tint"
+  },
+  {
+    "hex": "#FFC8B4",
+    "number": 4,
+    "name": "Medium Bastard Amber"
+  },
+  {
+    "hex": "#FAFAD2",
+    "number": 7,
+    "name": "Pale Yellow"
+  },
+  {
+    "hex": "#FC9B80",
+    "number": 8,
+    "name": "Dark Salmon"
+  },
+  {
+    "hex": "#FCD7B3",
+    "number": 9,
+    "name": "Pale Amber Gold"
+  },
+  {
+    "hex": "#FFFF00",
+    "number": 10,
+    "name": "Medium Yellow"
+  },
+  {
+    "hex": "#FCD89B",
+    "number": 13,
+    "name": "Straw Tint"
+  },
+  {
+    "hex": "#FFCD00",
+    "number": 15,
+    "name": "Deep Straw"
+  },
+  {
+    "hex": "#E68C64",
+    "number": 17,
+    "name": "Surprise Peach"
+  },
+  {
+    "hex": "#FF4600",
+    "number": 19,
+    "name": "Fire"
+  },
+  {
+    "hex": "#FFBE55",
+    "number": 20,
+    "name": "Medium Amber"
+  },
+  {
+    "hex": "#FF8C32",
+    "number": 21,
+    "name": "Gold Amber"
+  },
+  {
+    "hex": "#FF6900",
+    "number": 22,
+    "name": "Dark Amber"
+  },
+  {
+    "hex": "#FF5A64",
+    "number": 24,
+    "name": "Scarlet"
+  },
+  {
+    "hex": "#FF6E46",
+    "number": 25,
+    "name": "Sunset Red"
+  },
+  {
+    "hex": "#E6003C",
+    "number": 26,
+    "name": "Bright Red"
+  },
+  {
+    "hex": "#C8003C",
+    "number": 27,
+    "name": "Medium Red"
+  },
+  {
+    "hex": "#E1003C",
+    "number": 29,
+    "name": "Plasa Red"
+  },
+  {
+    "hex": "#FFC8D2",
+    "number": 35,
+    "name": "Light Pink"
+  },
+  {
+    "hex": "#FFA0B9",
+    "number": 36,
+    "name": "Medium Pink"
+  },
+  {
+    "hex": "#DC005A",
+    "number": 46,
+    "name": "Dark Magenta"
+  },
+  {
+    "hex": "#E66EAF",
+    "number": 48,
+    "name": "Rose Purple"
+  },
+  {
+    "hex": "#BE0091",
+    "number": 49,
+    "name": "Medium Purple"
+  },
+  {
+    "hex": "#E6AAFA",
+    "number": 52,
+    "name": "Light Lavender"
+  },
+  {
+    "hex": "#E6E6FA",
+    "number": 53,
+    "name": "Paler Lavender"
+  },
+  {
+    "hex": "#B46EF0",
+    "number": 58,
+    "name": "Lavender"
+  },
+  {
+    "hex": "#DCF5FF",
+    "number": 61,
+    "name": "Mist Blue"
+  },
+  {
+    "hex": "#D2F5FF",
+    "number": 63,
+    "name": "Pale Blue"
+  },
+  {
+    "hex": "#46B4F0",
+    "number": 68,
+    "name": "Sky Blue"
+  },
+  {
+    "hex": "#0000B4",
+    "number": 71,
+    "name": "Tokyo Blue"
+  },
+  {
+    "hex": "#64A0F0",
+    "number": 75,
+    "name": "Evening Blue"
+  },
+  {
+    "hex": "#3C8CD2",
+    "number": 79,
+    "name": "Just Blue"
+  },
+  {
+    "hex": "#006EB9",
+    "number": 85,
+    "name": "Deeper Blue"
+  },
+  {
+    "hex": "#DCFF64",
+    "number": 88,
+    "name": "Lime Green"
+  },
+  {
+    "hex": "#5ADC5A",
+    "number": 89,
+    "name": "Moss Green"
+  },
+  {
+    "hex": "#00BE00",
+    "number": 90,
+    "name": "Dark Yellow Green"
+  },
+  {
+    "hex": "#F5FF00",
+    "number": 100,
+    "name": "Spring Yellow"
+  },
+  {
+    "hex": "#FFF500",
+    "number": 101,
+    "name": "Yellow"
+  },
+  {
+    "hex": "#FFDC5F",
+    "number": 102,
+    "name": "Light Amber"
+  },
+  {
+    "hex": "#FCEACC",
+    "number": 103,
+    "name": "Straw"
+  },
+  {
+    "hex": "#FFDC00",
+    "number": 104,
+    "name": "Deep Amber"
+  },
+  {
+    "hex": "#FFA000",
+    "number": 105,
+    "name": "Orange"
+  },
+  {
+    "hex": "#F00032",
+    "number": 106,
+    "name": "Primary Red"
+  },
+  {
+    "hex": "#FFA5AF",
+    "number": 107,
+    "name": "Light Rose"
+  },
+  {
+    "hex": "#FCBEA9",
+    "number": 108,
+    "name": "English Rose"
+  },
+  {
+    "hex": "#FFB2AF",
+    "number": 109,
+    "name": "Light Salmon"
+  },
+  {
+    "hex": "#FFB4C8",
+    "number": 110,
+    "name": "Middle Rose"
+  },
+  {
+    "hex": "#FF8CBE",
+    "number": 111,
+    "name": "Dark Pink"
+  },
+  {
+    "hex": "#FF0064",
+    "number": 113,
+    "name": "Magenta"
+  },
+  {
+    "hex": "#00EBC8",
+    "number": 115,
+    "name": "Peacock Blue"
+  },
+  {
+    "hex": "#00C8B9",
+    "number": 116,
+    "name": "Medium Blue-Green"
+  },
+  {
+    "hex": "#B4FAF5",
+    "number": 117,
+    "name": "Steel Blue"
+  },
+  {
+    "hex": "#00E1EB",
+    "number": 118,
+    "name": "Light Blue"
+  },
+  {
+    "hex": "#0078C8",
+    "number": 119,
+    "name": "Dark Blue"
+  },
+  {
+    "hex": "#005FBE",
+    "number": 120,
+    "name": "Deep Blue"
+  },
+  {
+    "hex": "#B4FF64",
+    "number": 121,
+    "name": "LEE Green"
+  },
+  {
+    "hex": "#78FA6E",
+    "number": 122,
+    "name": "Fern Green"
+  },
+  {
+    "hex": "#00DC78",
+    "number": 124,
+    "name": "Dark Green"
+  },
+  {
+    "hex": "#BE009B",
+    "number": 126,
+    "name": "Mauve"
+  },
+  {
+    "hex": "#E16273",
+    "number": 127,
+    "name": "Smokey Pink"
+  },
+  {
+    "hex": "#FF50B4",
+    "number": 128,
+    "name": "Bright Pink"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 129,
+    "name": "Heavy Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 130,
+    "name": "Clear"
+  },
+  {
+    "hex": "#64FAD2",
+    "number": 131,
+    "name": "Marine Blue"
+  },
+  {
+    "hex": "#00A0DC",
+    "number": 132,
+    "name": "Medium Blue"
+  },
+  {
+    "hex": "#FAA873",
+    "number": 134,
+    "name": "Golden Amber"
+  },
+  {
+    "hex": "#FF5F00",
+    "number": 135,
+    "name": "Deep Golden Amber"
+  },
+  {
+    "hex": "#F0BEE6",
+    "number": 136,
+    "name": "Pale Lavender"
+  },
+  {
+    "hex": "#C8B4E6",
+    "number": 137,
+    "name": "Special Lavender"
+  },
+  {
+    "hex": "#DCFFA0",
+    "number": 138,
+    "name": "Pale Green"
+  },
+  {
+    "hex": "#4BC300",
+    "number": 139,
+    "name": "Primary Green"
+  },
+  {
+    "hex": "#87F0EB",
+    "number": 140,
+    "name": "Summer Blue"
+  },
+  {
+    "hex": "#00D2E6",
+    "number": 141,
+    "name": "Bright Blue"
+  },
+  {
+    "hex": "#AAAAF0",
+    "number": 142,
+    "name": "Pale Violet"
+  },
+  {
+    "hex": "#64BED2",
+    "number": 143,
+    "name": "Pale Navy Blue"
+  },
+  {
+    "hex": "#5AE1E6",
+    "number": 144,
+    "name": "No Colour Blue"
+  },
+  {
+    "hex": "#FCB98C",
+    "number": 147,
+    "name": "Apricot"
+  },
+  {
+    "hex": "#FF507D",
+    "number": 148,
+    "name": "Bright Rose"
+  },
+  {
+    "hex": "#FFCDC3",
+    "number": 151,
+    "name": "Gold Tint"
+  },
+  {
+    "hex": "#FFD2C1",
+    "number": 152,
+    "name": "Pale Gold"
+  },
+  {
+    "hex": "#FFC8C8",
+    "number": 153,
+    "name": "Pale Salmon"
+  },
+  {
+    "hex": "#FFD5CF",
+    "number": 154,
+    "name": "Pale Rose"
+  },
+  {
+    "hex": "#E1B48C",
+    "number": 156,
+    "name": "Chocolate"
+  },
+  {
+    "hex": "#FF92A3",
+    "number": 157,
+    "name": "Pink"
+  },
+  {
+    "hex": "#FF8700",
+    "number": 158,
+    "name": "Deep Orange"
+  },
+  {
+    "hex": "#FFFAEB",
+    "number": 159,
+    "name": "No Colour Straw"
+  },
+  {
+    "hex": "#7DD2F5",
+    "number": 161,
+    "name": "Slate Blue"
+  },
+  {
+    "hex": "#FCDED8",
+    "number": 162,
+    "name": "Bastard Amber"
+  },
+  {
+    "hex": "#FF3200",
+    "number": 164,
+    "name": "Flame Red"
+  },
+  {
+    "hex": "#5AC8EB",
+    "number": 165,
+    "name": "Daylight Blue"
+  },
+  {
+    "hex": "#FADCF0",
+    "number": 169,
+    "name": "Lilac Tint"
+  },
+  {
+    "hex": "#E6AADC",
+    "number": 170,
+    "name": "Deep Lavender"
+  },
+  {
+    "hex": "#00DCDC",
+    "number": 172,
+    "name": "Lagoon Blue"
+  },
+  {
+    "hex": "#AFE1FA",
+    "number": 174,
+    "name": "Dark Steel Blue"
+  },
+  {
+    "hex": "#FFAAA0",
+    "number": 176,
+    "name": "Loving Amber"
+  },
+  {
+    "hex": "#FFBE00",
+    "number": 179,
+    "name": "Chrome Orange"
+  },
+  {
+    "hex": "#A064E6",
+    "number": 180,
+    "name": "Dark Lavender"
+  },
+  {
+    "hex": "#5000AA",
+    "number": 181,
+    "name": "Congo Blue"
+  },
+  {
+    "hex": "#F50000",
+    "number": 182,
+    "name": "Light Red"
+  },
+  {
+    "hex": "#00D7E3",
+    "number": 183,
+    "name": "Moonlight Blue"
+  },
+  {
+    "hex": "#F0E1D7",
+    "number": 184,
+    "name": "Cosmetic Peach"
+  },
+  {
+    "hex": "#F8DCDD",
+    "number": 186,
+    "name": "Cosmetic Silver Rose"
+  },
+  {
+    "hex": "#F5E4D7",
+    "number": 187,
+    "name": "Cosmetic Rouge"
+  },
+  {
+    "hex": "#FFEBD7",
+    "number": 188,
+    "name": "Cosmetic Highlight"
+  },
+  {
+    "hex": "#EEEDD8",
+    "number": 189,
+    "name": "Cosmetic Silver Moss"
+  },
+  {
+    "hex": "#E9EEEE",
+    "number": 191,
+    "name": "Cosmetic Aqua Blue"
+  },
+  {
+    "hex": "#FF8CB4",
+    "number": 192,
+    "name": "Flesh Pink"
+  },
+  {
+    "hex": "#BE8CF0",
+    "number": 194,
+    "name": "Surprise Pink"
+  },
+  {
+    "hex": "#006ED2",
+    "number": 195,
+    "name": "Zenith Blue"
+  },
+  {
+    "hex": "#78D2E6",
+    "number": 196,
+    "name": "True Blue"
+  },
+  {
+    "hex": "#82AAE6",
+    "number": 197,
+    "name": "Alice Blue"
+  },
+  {
+    "hex": "#6478C8",
+    "number": 198,
+    "name": "Palace Blue"
+  },
+  {
+    "hex": "#6464E6",
+    "number": 199,
+    "name": "Regal Blue"
+  },
+  {
+    "hex": "#91BEF5",
+    "number": 200,
+    "name": "Double C.T. Blue"
+  },
+  {
+    "hex": "#C3E1FA",
+    "number": 201,
+    "name": "Full C.T. Blue"
+  },
+  {
+    "hex": "#D7F0FF",
+    "number": 202,
+    "name": "Half C.T. Blue"
+  },
+  {
+    "hex": "#EBFCFF",
+    "number": 203,
+    "name": "Quarter C.T. Blue"
+  },
+  {
+    "hex": "#FAC387",
+    "number": 204,
+    "name": "Full C.T. Orange"
+  },
+  {
+    "hex": "#FCD9B1",
+    "number": 205,
+    "name": "Half C.T. Orange"
+  },
+  {
+    "hex": "#FCEAD6",
+    "number": 206,
+    "name": "Quarter C.T. Orange"
+  },
+  {
+    "hex": "#F0B46B",
+    "number": 207,
+    "name": "Full C.T. Orange + .3 ND"
+  },
+  {
+    "hex": "#E6A550",
+    "number": 208,
+    "name": "Full C.T. Orange + .6 ND"
+  },
+  {
+    "hex": "#C8C8C8",
+    "number": 209,
+    "name": "0.3 ND"
+  },
+  {
+    "hex": "#A5A5A5",
+    "number": 210,
+    "name": "0.6 ND"
+  },
+  {
+    "hex": "#828282",
+    "number": 211,
+    "name": "0.9 ND"
+  },
+  {
+    "hex": "#FFFAD7",
+    "number": 212,
+    "name": "L.C.T.Yellow (Y1)"
+  },
+  {
+    "hex": "#E6FCDC",
+    "number": 213,
+    "name": "White Flame Green"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 214,
+    "name": "Full Tough Spun"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 215,
+    "name": "Half Tough Spun"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 216,
+    "name": "White Diffusion"
+  },
+  {
+    "hex": "#F5FFFF",
+    "number": 217,
+    "name": "Blue Diffusion"
+  },
+  {
+    "hex": "#F5FFFF",
+    "number": 218,
+    "name": "Eighth C.T. Blue"
+  },
+  {
+    "hex": "#9BDCAF",
+    "number": 219,
+    "name": "LEE Fluorescent Green"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 220,
+    "name": "White Frost"
+  },
+  {
+    "hex": "#F5FFFF",
+    "number": 221,
+    "name": "Blue Frost"
+  },
+  {
+    "hex": "#FFF3E8",
+    "number": 223,
+    "name": "Eighth C.T. Orange"
+  },
+  {
+    "hex": "#96A0BE",
+    "number": 224,
+    "name": "Daylight Blue Frost"
+  },
+  {
+    "hex": "#9EA0A2",
+    "number": 225,
+    "name": "Neutral Density Frost"
+  },
+  {
+    "hex": "#FFFFFA",
+    "number": 226,
+    "name": "LEE U.V."
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 228,
+    "name": "Brushed Silk"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 229,
+    "name": "Quarter Tough Spun"
+  },
+  {
+    "hex": "#DCBE8C",
+    "number": 230,
+    "name": "Super Correction L.C.T. Yellow"
+  },
+  {
+    "hex": "#EDBE83",
+    "number": 232,
+    "name": "Super Correction W.F. Green"
+  },
+  {
+    "hex": "#FAC795",
+    "number": 236,
+    "name": "H.M.I. (to Tungsten)"
+  },
+  {
+    "hex": "#FCB292",
+    "number": 237,
+    "name": "C.I.D. (to Tungsten)"
+  },
+  {
+    "hex": "#F5B9AA",
+    "number": 238,
+    "name": "C.S.I. (to Tungsten)"
+  },
+  {
+    "hex": "#CDCDCD",
+    "number": 239,
+    "name": "Polariser"
+  },
+  {
+    "hex": "#AADCC3",
+    "number": 241,
+    "name": "LEE Fluorescent 5700 Kelvin"
+  },
+  {
+    "hex": "#B9E6B9",
+    "number": 242,
+    "name": "LEE Fluorescent 4300 Kelvin"
+  },
+  {
+    "hex": "#CDF5AF",
+    "number": 243,
+    "name": "LEE Fluorescent 3600 Kelvin"
+  },
+  {
+    "hex": "#E6FABE",
+    "number": 244,
+    "name": "LEE Plus Green"
+  },
+  {
+    "hex": "#F0FCD2",
+    "number": 245,
+    "name": "Half Plus Green"
+  },
+  {
+    "hex": "#F5FFE6",
+    "number": 246,
+    "name": "Quarter Plus Green"
+  },
+  {
+    "hex": "#FAC3D7",
+    "number": 247,
+    "name": "LEE Minus Green"
+  },
+  {
+    "hex": "#FFE2E4",
+    "number": 248,
+    "name": "Half Minus Green"
+  },
+  {
+    "hex": "#FFECF0",
+    "number": 249,
+    "name": "Quarter Minus Green"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 250,
+    "name": "Half White Diffusion"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 251,
+    "name": "Quarter White Diffusion"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 252,
+    "name": "Eighth White Diffusion"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 253,
+    "name": "Hampshire Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 254,
+    "name": "New Hampshire Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 255,
+    "name": "Hollywood Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 256,
+    "name": "Half Hampshire Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 257,
+    "name": "Quarter Hampshire Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 258,
+    "name": "Eighth Hampshire Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 261,
+    "name": "Tough Spun FR - Full"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 262,
+    "name": "Tough Spun FR - 3/4"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 263,
+    "name": "Tough Spun FR - 1/2"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 264,
+    "name": "Tough Spun FR - 3/8"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 265,
+    "name": "Tough Spun FR - 1/4"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 269,
+    "name": "LEE Heat Shield"
+  },
+  {
+    "hex": "#BEBEBE",
+    "number": 270,
+    "name": "LEE Scrim"
+  },
+  {
+    "hex": "#F0F0F0",
+    "number": 271,
+    "name": "Mirror Silver"
+  },
+  {
+    "hex": "#F0DC96",
+    "number": 272,
+    "name": "Soft Gold Reflector"
+  },
+  {
+    "hex": "#F3F3F3",
+    "number": 273,
+    "name": "Soft Silver Reflector"
+  },
+  {
+    "hex": "#EBD791",
+    "number": 274,
+    "name": "Mirror Gold"
+  },
+  {
+    "hex": "#BEBEBE",
+    "number": 275,
+    "name": "Black Scrim"
+  },
+  {
+    "hex": "#F3FFF3",
+    "number": 278,
+    "name": "Eighth Plus Green"
+  },
+  {
+    "hex": "#FFF3F7",
+    "number": 279,
+    "name": "Eighth Minus Green"
+  },
+  {
+    "hex": "#000000",
+    "number": 280,
+    "name": "Black Foil"
+  },
+  {
+    "hex": "#CDE6FA",
+    "number": 281,
+    "name": "Three Quarter C.T. Blue"
+  },
+  {
+    "hex": "#AFD9F5",
+    "number": 283,
+    "name": "One and a Half C.T. Blue"
+  },
+  {
+    "hex": "#FCCD94",
+    "number": 285,
+    "name": "Three Quarter C.T. Orange"
+  },
+  {
+    "hex": "#FFB464",
+    "number": 286,
+    "name": "One and a Half C.T. Orange"
+  },
+  {
+    "hex": "#FFA055",
+    "number": 287,
+    "name": "Double C.T. Orange"
+  },
+  {
+    "hex": "#E6E6E6",
+    "number": 298,
+    "name": "0.15 ND"
+  },
+  {
+    "hex": "#5F5F5F",
+    "number": 299,
+    "name": "1.2 ND"
+  },
+  {
+    "hex": "#41F5BE",
+    "number": 322,
+    "name": "Soft Green"
+  },
+  {
+    "hex": "#00E1AA",
+    "number": 323,
+    "name": "Jade"
+  },
+  {
+    "hex": "#008C50",
+    "number": 327,
+    "name": "Forest Green"
+  },
+  {
+    "hex": "#FF64C8",
+    "number": 328,
+    "name": "Follies Pink"
+  },
+  {
+    "hex": "#FF3787",
+    "number": 332,
+    "name": "Special Rose Pink"
+  },
+  {
+    "hex": "#8C00D2",
+    "number": 343,
+    "name": "Special Medium Lavender"
+  },
+  {
+    "hex": "#CD6ED7",
+    "number": 345,
+    "name": "Fuchsia Pink"
+  },
+  {
+    "hex": "#5AC8E1",
+    "number": 352,
+    "name": "Glacier Blue"
+  },
+  {
+    "hex": "#61E8E3",
+    "number": 353,
+    "name": "Lighter Blue"
+  },
+  {
+    "hex": "#00F0D7",
+    "number": 354,
+    "name": "Special Steel Blue"
+  },
+  {
+    "hex": "#006EC3",
+    "number": 363,
+    "name": "Special Medium Blue"
+  },
+  {
+    "hex": "#AAD2F0",
+    "number": 366,
+    "name": "Cornflower"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 400,
+    "name": "LEELux"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 402,
+    "name": "Soft Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 404,
+    "name": "Half Soft Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 410,
+    "name": "Opal Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 414,
+    "name": "Highlight"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 416,
+    "name": "Three Quarter White Diffusion"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 420,
+    "name": "Light Opal Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 429,
+    "name": "Quiet Frost"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 430,
+    "name": "Grid Cloth"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 432,
+    "name": "Light Grid Cloth"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 434,
+    "name": "Quarter Grid Cloth"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 439,
+    "name": "Heavy Quiet Frost"
+  },
+  {
+    "hex": "#FAC084",
+    "number": 441,
+    "name": "Full C.T. Straw"
+  },
+  {
+    "hex": "#FCDCAD",
+    "number": 442,
+    "name": "Half C.T. Straw"
+  },
+  {
+    "hex": "#FCEFDB",
+    "number": 443,
+    "name": "Quarter C.T. Straw"
+  },
+  {
+    "hex": "#FAF3E8",
+    "number": 444,
+    "name": "Eighth C.T. Straw"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 450,
+    "name": "Three Eighth White Diffusion"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 452,
+    "name": "Sixteenth White Diffusion"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 460,
+    "name": "Quiet Grid Cloth"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 462,
+    "name": "Quiet Light Grid Cloth"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 464,
+    "name": "Quiet Quarter Grid Cloth"
+  },
+  {
+    "hex": "#B4D2FF",
+    "number": 500,
+    "name": "Double New Colour Blue"
+  },
+  {
+    "hex": "#D7EBFA",
+    "number": 501,
+    "name": "New Colour Blue (Robertson Blue)"
+  },
+  {
+    "hex": "#E1F0FF",
+    "number": 502,
+    "name": "Half New Colour Blue"
+  },
+  {
+    "hex": "#F4FAFF",
+    "number": 503,
+    "name": "Quarter New Colour Blue"
+  },
+  {
+    "hex": "#D2F5DC",
+    "number": 504,
+    "name": "Waterfront Green"
+  },
+  {
+    "hex": "#E3FF5A",
+    "number": 505,
+    "name": "Sally Green"
+  },
+  {
+    "hex": "#FFDACE",
+    "number": 506,
+    "name": "Marlene"
+  },
+  {
+    "hex": "#F85000",
+    "number": 507,
+    "name": "Madge"
+  },
+  {
+    "hex": "#5A46C3",
+    "number": 508,
+    "name": "Midnight Maya"
+  },
+  {
+    "hex": "#963C00",
+    "number": 511,
+    "name": "Bacon Brown"
+  },
+  {
+    "hex": "#cc6100",
+    "number": 512,
+    "name": "Amber Delight"
+  },
+  {
+    "hex": "#f5ff7d",
+    "number": 513,
+    "name": "Ice and a Slice"
+  },
+  {
+    "hex": "#f5ff5a",
+    "number": 514,
+    "name": "Double G&T;"
+  },
+  {
+    "hex": "#8EB4FA",
+    "number": 525,
+    "name": "Argent Blue"
+  },
+  {
+    "hex": "#e3ca3c",
+    "number": 550,
+    "name": "ALD Gold"
+  },
+  {
+    "hex": "#98a8aa",
+    "number": 600,
+    "name": "Arctic White"
+  },
+  {
+    "hex": "#90a0a0",
+    "number": 601,
+    "name": "Silver"
+  },
+  {
+    "hex": "#a5a5aa",
+    "number": 602,
+    "name": "Platinum"
+  },
+  {
+    "hex": "#c8cdcd",
+    "number": 603,
+    "name": "Moonlight White"
+  },
+  {
+    "hex": "#FFC295",
+    "number": 604,
+    "name": "Full C.T. Eight Five"
+  },
+  {
+    "hex": "#968200",
+    "number": 642,
+    "name": "Half Mustard Yellow"
+  },
+  {
+    "hex": "#B4A000",
+    "number": 643,
+    "name": "Quarter Mustard Yellow"
+  },
+  {
+    "hex": "#C8A862",
+    "number": 650,
+    "name": "Industry Sodium"
+  },
+  {
+    "hex": "#FF9B5F",
+    "number": 651,
+    "name": "HI Sodium"
+  },
+  {
+    "hex": "#FF8246",
+    "number": 652,
+    "name": "Urban Sodium"
+  },
+  {
+    "hex": "#965500",
+    "number": 653,
+    "name": "LO Sodium"
+  },
+  {
+    "hex": "#7D00CD",
+    "number": 700,
+    "name": "Perfect Lavender"
+  },
+  {
+    "hex": "#B45ADC",
+    "number": 701,
+    "name": "Provence"
+  },
+  {
+    "hex": "#E6D2F0",
+    "number": 702,
+    "name": "Special Pale Lavender"
+  },
+  {
+    "hex": "#D282DC",
+    "number": 703,
+    "name": "Cold Lavender"
+  },
+  {
+    "hex": "#F0AAFA",
+    "number": 704,
+    "name": "Lily"
+  },
+  {
+    "hex": "#F0AAFA",
+    "number": 705,
+    "name": "Lily Frost"
+  },
+  {
+    "hex": "#6E46C8",
+    "number": 706,
+    "name": "King Fals Lavender"
+  },
+  {
+    "hex": "#6400B4",
+    "number": 707,
+    "name": "Ultimate Violet"
+  },
+  {
+    "hex": "#DCEBFA",
+    "number": 708,
+    "name": "Cool Lavender"
+  },
+  {
+    "hex": "#C8C8FA",
+    "number": 709,
+    "name": "Electric Lilac"
+  },
+  {
+    "hex": "#8CA0F0",
+    "number": 710,
+    "name": "Spir Special Blue"
+  },
+  {
+    "hex": "#AABEDC",
+    "number": 711,
+    "name": "Cold Blue"
+  },
+  {
+    "hex": "#A0BEF0",
+    "number": 712,
+    "name": "Bedford Blue"
+  },
+  {
+    "hex": "#003CA0",
+    "number": 713,
+    "name": "J.Winter Blue"
+  },
+  {
+    "hex": "#5A91D2",
+    "number": 714,
+    "name": "Elysian Blue"
+  },
+  {
+    "hex": "#3C6EDC",
+    "number": 715,
+    "name": "Cabana Blue"
+  },
+  {
+    "hex": "#0064D2",
+    "number": 716,
+    "name": "Mikkel Blue"
+  },
+  {
+    "hex": "#C3E1FA",
+    "number": 717,
+    "name": "Shanklin Frost"
+  },
+  {
+    "hex": "#D4EDFA",
+    "number": 718,
+    "name": "Half Shanklin Frost"
+  },
+  {
+    "hex": "#9BC3F0",
+    "number": 719,
+    "name": "Colour Wash Blue"
+  },
+  {
+    "hex": "#C3E1FA",
+    "number": 720,
+    "name": "Durham Daylight Frost"
+  },
+  {
+    "hex": "#0082E6",
+    "number": 721,
+    "name": "Berry Blue"
+  },
+  {
+    "hex": "#008CD2",
+    "number": 722,
+    "name": "Bray Blue"
+  },
+  {
+    "hex": "#5082DC",
+    "number": 723,
+    "name": "Virgin Blue"
+  },
+  {
+    "hex": "#69E1EB",
+    "number": 724,
+    "name": "Ocean Blue"
+  },
+  {
+    "hex": "#BEF2F3",
+    "number": 725,
+    "name": "Old Steel Blue"
+  },
+  {
+    "hex": "#00A5B4",
+    "number": 727,
+    "name": "QFD Blue"
+  },
+  {
+    "hex": "#C8EBD2",
+    "number": 728,
+    "name": "Steel Green"
+  },
+  {
+    "hex": "#00AFAA",
+    "number": 729,
+    "name": "Scuba Blue"
+  },
+  {
+    "hex": "#DCFFE6",
+    "number": 730,
+    "name": "Liberty Green"
+  },
+  {
+    "hex": "#E1FAD7",
+    "number": 731,
+    "name": "Dirty Ice"
+  },
+  {
+    "hex": "#EBF7CF",
+    "number": 733,
+    "name": "Damp Squib"
+  },
+  {
+    "hex": "#00BE78",
+    "number": 735,
+    "name": "Velvet Green"
+  },
+  {
+    "hex": "#00AA00",
+    "number": 736,
+    "name": "Twickenham Green"
+  },
+  {
+    "hex": "#AAFF00",
+    "number": 738,
+    "name": "JAS Green"
+  },
+  {
+    "hex": "#5A6E00",
+    "number": 740,
+    "name": "Aurora Borealis Green"
+  },
+  {
+    "hex": "#826400",
+    "number": 741,
+    "name": "Mustard Yellow"
+  },
+  {
+    "hex": "#E19B50",
+    "number": 742,
+    "name": "Bram Brown"
+  },
+  {
+    "hex": "#F8C882",
+    "number": 744,
+    "name": "Dirty White"
+  },
+  {
+    "hex": "#6E3C00",
+    "number": 746,
+    "name": "Brown"
+  },
+  {
+    "hex": "#F5B99F",
+    "number": 747,
+    "name": "Easy White"
+  },
+  {
+    "hex": "#E96785",
+    "number": 748,
+    "name": "Seedy Pink"
+  },
+  {
+    "hex": "#FCD3CD",
+    "number": 749,
+    "name": "Hampshire Rose"
+  },
+  {
+    "hex": "#FAF1FE",
+    "number": 750,
+    "name": "Durham Frost"
+  },
+  {
+    "hex": "#FCF0D2",
+    "number": 763,
+    "name": "Wheat"
+  },
+  {
+    "hex": "#FCE6B4",
+    "number": 764,
+    "name": "Sun Colour Straw"
+  },
+  {
+    "hex": "#FFE591",
+    "number": 765,
+    "name": "LEE Yellow"
+  },
+  {
+    "hex": "#FFE600",
+    "number": 767,
+    "name": "Oklahoma Yellow"
+  },
+  {
+    "hex": "#FFC600",
+    "number": 768,
+    "name": "Egg Yolk Yellow"
+  },
+  {
+    "hex": "#FFB400",
+    "number": 770,
+    "name": "Burnt Yellow"
+  },
+  {
+    "hex": "#FCC5B2",
+    "number": 773,
+    "name": "Cardbox Amber"
+  },
+  {
+    "hex": "#FCD2BE",
+    "number": 774,
+    "name": "Soft Amber Key 1"
+  },
+  {
+    "hex": "#FCC6A5",
+    "number": 775,
+    "name": "Soft Amber Key 2"
+  },
+  {
+    "hex": "#FCBE9B",
+    "number": 776,
+    "name": "Nectarine"
+  },
+  {
+    "hex": "#F58200",
+    "number": 777,
+    "name": "Rust"
+  },
+  {
+    "hex": "#FF7600",
+    "number": 778,
+    "name": "Millennium Gold"
+  },
+  {
+    "hex": "#FC9885",
+    "number": 779,
+    "name": "Bastard Pink"
+  },
+  {
+    "hex": "#FF6F00",
+    "number": 780,
+    "name": "AS Golden Amber"
+  },
+  {
+    "hex": "#FF5000",
+    "number": 781,
+    "name": "Terry Red"
+  },
+  {
+    "hex": "#B9003C",
+    "number": 787,
+    "name": "Marius Red"
+  },
+  {
+    "hex": "#AA3C32",
+    "number": 789,
+    "name": "Blood Red"
+  },
+  {
+    "hex": "#FFB4A5",
+    "number": 790,
+    "name": "Moroccan Pink"
+  },
+  {
+    "hex": "#F5B9AA",
+    "number": 791,
+    "name": "Moroccan Frost"
+  },
+  {
+    "hex": "#FF3CA0",
+    "number": 793,
+    "name": "Vanity Fair"
+  },
+  {
+    "hex": "#FFAFDC",
+    "number": 794,
+    "name": "Pretty 'n Pink"
+  },
+  {
+    "hex": "#FA46C8",
+    "number": 795,
+    "name": "Magical Magenta"
+  },
+  {
+    "hex": "#AF0096",
+    "number": 797,
+    "name": "Deep Purple"
+  },
+  {
+    "hex": "#A000BE",
+    "number": 798,
+    "name": "Chrysalis Pink"
+  },
+  {
+    "hex": "#3C00B4",
+    "number": 799,
+    "name": "Special KH Lavender"
+  },
+  {
+    "hex": "#ff9600",
+    "number": "CL104",
+    "name": "Cool LED Deep Amber"
+  },
+  {
+    "hex": "#ff6e00",
+    "number": "CL105",
+    "name": "Cool LED Orange"
+  },
+  {
+    "hex": "#be0032",
+    "number": "CL106",
+    "name": "Cool LED Primary Red"
+  },
+  {
+    "hex": "#c80050",
+    "number": "CL113",
+    "name": "Cool LED Magenta"
+  },
+  {
+    "hex": "#00ffa0",
+    "number": "CL115",
+    "name": "Cool LED Peacock Blue"
+  },
+  {
+    "hex": "#00aa82",
+    "number": "CL116",
+    "name": "Cool LED Medium Blue-Green"
+  },
+  {
+    "hex": "#ebffa0",
+    "number": "CL117",
+    "name": "Cool LED Steel Blue"
+  },
+  {
+    "hex": "#00f5b4",
+    "number": "CL118",
+    "name": "Cool LED Light Blue"
+  },
+  {
+    "hex": "#0091a5",
+    "number": "CL119",
+    "name": "Cool LED Dark Blue"
+  },
+  {
+    "hex": "#af0050",
+    "number": "CL126",
+    "name": "Cool LED Mauve"
+  },
+  {
+    "hex": "#ff0069",
+    "number": "CL128",
+    "name": "Cool LED Bright Pink"
+  },
+  {
+    "hex": "#00c8c8",
+    "number": "CL132",
+    "name": "Cool LED Medium Blue"
+  },
+  {
+    "hex": "#4bc300",
+    "number": "CL139",
+    "name": "Cool LED Primary Green"
+  },
+  {
+    "hex": "#ff7d46",
+    "number": "CL147",
+    "name": "Cool LED Apricot"
+  },
+  {
+    "hex": "#ff6900",
+    "number": "CL158",
+    "name": "Cool LED Deep Orange"
+  },
+  {
+    "hex": "#ff0000",
+    "number": "CL164",
+    "name": "Cool LED Flame Red"
+  },
+  {
+    "hex": "#eb78a0",
+    "number": "CL180",
+    "name": "Cool LED Dark Lavender"
+  },
+  {
+    "hex": "#960078",
+    "number": "CL181",
+    "name": "Cool LED Congo Blue"
+  },
+  {
+    "hex": "#dc0052",
+    "number": "CL182",
+    "name": "Cool LED Light Red"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": "414P",
+    "name": "Perforated Highlight"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": "439P",
+    "name": "Perforated Heavy Quiet Frost"
+  },
+  {
+    "hex": "#FAD7AF",
+    "number": "A205",
+    "name": "Half C.T.O. Acrylic Panel"
+  },
+  {
+    "hex": "#F3B76E",
+    "number": "A207",
+    "name": "Full C.T.O. + 0.3 ND Acrylic Panel"
+  },
+  {
+    "hex": "#E7A651",
+    "number": "A208",
+    "name": "Full C.T.O. + 0.6 ND Acrylic Panel"
+  },
+  {
+    "hex": "#CDCDCD",
+    "number": "A209",
+    "name": "0.3 ND Acrylic Panel"
+  },
+  {
+    "hex": "#AAAAAA",
+    "number": "A210",
+    "name": "0.6 ND Acrylic Panel"
+  },
+  {
+    "hex": "#878787",
+    "number": "A211",
+    "name": "0.9 ND Acrylic Panel"
+  },
+  {
+    "hex": "#FACDD7",
+    "number": 801,
+    "name": "Zircon Minus Green 1"
+  },
+  {
+    "hex": "#FAE7EA",
+    "number": 802,
+    "name": "Zircon Minus Green 2"
+  },
+  {
+    "hex": "#FCF2FA",
+    "number": 803,
+    "name": "Zircon Minus Green 3"
+  },
+  {
+    "hex": "#FCF7FC",
+    "number": 804,
+    "name": "Zircon Minus Green 4"
+  },
+  {
+    "hex": "#FCFAFC",
+    "number": 805,
+    "name": "Zircon Minus Green 5"
+  },
+  {
+    "hex": "#FFAA6E",
+    "number": 806,
+    "name": "Zircon Warm Amber 2"
+  },
+  {
+    "hex": "#FFD291",
+    "number": 807,
+    "name": "Zircon Warm Amber 4"
+  },
+  {
+    "hex": "#FFE4AA",
+    "number": 808,
+    "name": "Zircon Warm Amber 6"
+  },
+  {
+    "hex": "#FFEBB4",
+    "number": 809,
+    "name": "Zircon Warm Amber 8"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 810,
+    "name": "Zircon Diffusion 1"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 811,
+    "name": "Zircon Diffusion 2"
+  },
+  {
+    "hex": "#FFFFFF",
+    "number": 812,
+    "name": "Zircon Diffusion 3"
+  },
+  {
+    "hex": "#ebfaeb",
+    "number": "SC15",
+    "name": "Special Cyan 15"
+  },
+  {
+    "hex": "#cdfae1",
+    "number": "SC30",
+    "name": "Special Cyan 30"
+  },
+  {
+    "hex": "#aaf7cd",
+    "number": "SC60",
+    "name": "Special Cyan 60"
+  }
+]
